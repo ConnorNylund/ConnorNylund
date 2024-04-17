@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+my name is ConnorNylund i am a freshman in college in the computer science program.
+
 <!--
 **ConnorNylund/ConnorNylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
